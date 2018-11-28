@@ -1,4 +1,5 @@
 use strict;
+# this solution is too time consuming
 my @nums = ('2', '7', '11', '15', '3', '6');
 my $target = '9';
 my $index_hash= {};
